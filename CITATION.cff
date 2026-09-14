@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it using the metadata below."
+title: "AI Capacity Conversion Canvas"
+type: dataset
+authors:
+  - family-names: "Pinto"
+    given-names: "Marcelo"
+url: "https://github.com/Pgmarcelo/ai-capacity-conversion-canvas"
+repository-code: "https://github.com/Pgmarcelo/ai-capacity-conversion-canvas"
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-09-14"
+abstract: "A vendor-neutral framework for connecting AI productivity gains with measurable operational capacity and business outcomes."
+keywords:
+  - enterprise AI
+  - AI adoption
+  - productivity
+  - capacity planning
+  - business value
+  - AI measurement

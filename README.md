@@ -13,11 +13,12 @@ This repository provides a simple way to connect an AI-enabled workflow with:
 - quality, risk, and human-oversight controls; and
 - an evidence-based decision to scale, redesign, or stop.
 
-## Repository contents
+## Start here
 
-- [Capacity canvas](capacity-canvas.md): define the workflow, baseline, value hypothesis, owners, controls, and capacity destination.
-- [Measurement plan](measurement-plan.md): design a before-and-after evaluation and calculate usable capacity without treating every saved minute as cash.
-- [Fictional example](example.md): see the framework applied to a customer-service workflow.
+- [Complete the capacity canvas](capacity-canvas.md) in Markdown.
+- [Download the blank CSV template](templates/ai-capacity-conversion-canvas.csv) for a spreadsheet or workshop.
+- [Build the measurement plan](measurement-plan.md) before starting the pilot.
+- [Review the fictional example](example.md) to see the framework applied to customer service.
 
 ## How to use it
 
@@ -37,6 +38,20 @@ Examples include shorter customer wait times, more completed cases, reduced back
 ## What this framework does not do
 
 It does not prescribe a model, cloud provider, software vendor, or architecture. It is not a substitute for security, privacy, legal, compliance, finance, or workforce review.
+
+## About the author
+
+Marcelo Pinto works with enterprise GenAI, AI/ML, analytics and cloud commercialization in Canada, connecting technology decisions with adoption, operating models and measurable business outcomes.
+
+Connect with Marcelo on [LinkedIn](https://www.linkedin.com/in/pgmarcelo/).
+
+## Licence and attribution
+
+The framework is available under the [Creative Commons Attribution 4.0 International licence](LICENSE.md). You may share and adapt it with appropriate attribution.
+
+Suggested attribution:
+
+> AI Capacity Conversion Canvas by Marcelo Pinto, licensed under CC BY 4.0.
 
 ## Disclaimer
 
